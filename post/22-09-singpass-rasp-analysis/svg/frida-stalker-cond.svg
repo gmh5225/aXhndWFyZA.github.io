@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="624.02448"
+   height="144.02585"
+   viewBox="0 0 165.10647 38.106839"
+   version="1.1"
+   id="svg7816"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="09-frida-stalker-cond.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7818"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.914906"
+     inkscape:cx="364.51832"
+     inkscape:cy="364.51832"
+     inkscape:window-width="1785"
+     inkscape:window-height="1411"
+     inkscape:window-x="1649"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g24491" />
+  <defs
+     id="defs7813" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-26.587386,-7.4049156)">
+    <g
+       id="g24491"
+       transform="matrix(1.1664,0,0,1.1664,-1.990951,-140.1308)"
+       inkscape:label="stalker_cond">
+      <rect
+         style="opacity:1;fill:#353333;fill-opacity:1;stroke:#6dcff6;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1"
+         id="rect24547"
+         width="140.75844"
+         height="31.876722"
+         x="24.898193"
+         y="126.88497"
+         inkscape:label="bg" />
+      <g
+         id="g23869"
+         inkscape:label="inst"
+         transform="matrix(0.26458333,0,0,0.26458333,24.578983,16.019126)">
+        <g
+           id="g14197"
+           inkscape:label="top"
+           style="opacity:0.3">
+          <text
+             x="8"
+             y="438"
+             style="fill:#88b0f0"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21057">bool</text>
+          <text
+             x="48"
+             y="438"
+             style="fill:#ffffff"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21059">in_range</text>
+          <text
+             x="120"
+             y="438"
+             style="fill:#c364fc"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21061">=</text>
+          <text
+             x="136"
+             y="438"
+             style="fill:#ffffff"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21063">address</text>
+          <text
+             x="200"
+             y="438"
+             style="fill:#c364fc"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21065">&lt;=</text>
+          <text
+             x="224"
+             y="438"
+             style="fill:#ffffff"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21067">tlv_addr</text>
+          <text
+             x="296"
+             y="438"
+             style="fill:#c364fc"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21069">&amp;&amp;</text>
+          <text
+             x="320"
+             y="438"
+             style="fill:#ffffff"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21071">tlv_addr</text>
+          <text
+             x="392"
+             y="438"
+             style="fill:#c364fc"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21073">&lt;</text>
+          <text
+             x="408"
+             y="438"
+             style="fill:#ffffff"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21075">address</text>
+          <text
+             x="472"
+             y="438"
+             style="fill:#c364fc"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21077">+</text>
+          <text
+             x="488"
+             y="438"
+             style="fill:#ffffff"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21079">size</text>
+          <text
+             x="520"
+             y="438"
+             style="fill:#ffffff"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21081">;</text>
+        </g>
+        <g
+           id="g14234"
+           inkscape:label="mid">
+          <text
+             x="8"
+             y="456"
+             style="fill:#88b0f0"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21083">bool</text>
+          <text
+             x="48"
+             y="456"
+             style="fill:#ffffff"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21085">cond</text>
+          <text
+             x="80"
+             y="456"
+             style="fill:#ffffff"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21087" />
+          <text
+             x="120"
+             y="456"
+             style="fill:#c364fc"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21089">=</text>
+          <text
+             x="136"
+             y="456"
+             style="fill:#c364fc"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21091">*</text>
+          <text
+             x="144"
+             y="456"
+             style="fill:#ffffff"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21093">(</text>
+          <text
+             x="152"
+             y="456"
+             style="fill:#ffffff"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21095">tlv_addr</text>
+          <text
+             x="224"
+             y="456"
+             style="fill:#c364fc"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21097">+</text>
+          <text
+             x="240"
+             y="456"
+             style="fill:#6dcff6"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21099">0x18</text>
+          <text
+             x="272"
+             y="456"
+             style="fill:#ffffff"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21101">)</text>
+          <text
+             x="288"
+             y="456"
+             style="fill:#c364fc"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21103">==</text>
+          <text
+             x="312"
+             y="456"
+             style="fill:#ffffff"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21105">tid</text>
+          <text
+             x="344"
+             y="456"
+             style="fill:#c364fc"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21107">&amp;&amp;</text>
+          <text
+             x="8"
+             y="474"
+             style="fill:#ffffff"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21109" />
+          <text
+             x="136"
+             y="474"
+             style="fill:#c364fc"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21111">*</text>
+          <text
+             x="144"
+             y="474"
+             style="fill:#ffffff"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21113">(</text>
+          <text
+             x="152"
+             y="474"
+             style="fill:#ffffff"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21115">tlv_addr</text>
+          <text
+             x="224"
+             y="474"
+             style="fill:#c364fc"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21117">+</text>
+          <text
+             x="240"
+             y="474"
+             style="fill:#6dcff6"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21119">0x24</text>
+          <text
+             x="272"
+             y="474"
+             style="fill:#ffffff"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21121">)</text>
+          <text
+             x="288"
+             y="474"
+             style="fill:#c364fc"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21123">&lt;=</text>
+          <text
+             x="312"
+             y="474"
+             style="fill:#6dcff6"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21125">5</text>
+          <text
+             x="320"
+             y="474"
+             style="fill:#ffffff"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21127" />
+          <text
+             x="344"
+             y="474"
+             style="fill:#c364fc"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21129">&amp;&amp;</text>
+          <text
+             x="8"
+             y="492"
+             style="fill:#ffffff"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21131" />
+          <text
+             x="136"
+             y="492"
+             style="fill:#c364fc"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21133">*</text>
+          <text
+             x="144"
+             y="492"
+             style="fill:#ffffff"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21135">(</text>
+          <text
+             x="152"
+             y="492"
+             style="fill:#ffffff"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21137">tlv_addr</text>
+          <text
+             x="224"
+             y="492"
+             style="fill:#c364fc"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21139">+</text>
+          <text
+             x="240"
+             y="492"
+             style="fill:#6dcff6"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21141">0x28</text>
+          <text
+             x="272"
+             y="492"
+             style="fill:#ffffff"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21143">)</text>
+          <text
+             x="288"
+             y="492"
+             style="fill:#c364fc"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21145">&lt;</text>
+          <text
+             x="296"
+             y="492"
+             style="fill:#ffffff"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21147" />
+          <text
+             x="312"
+             y="492"
+             style="fill:#6dcff6"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21149">3</text>
+          <text
+             x="320"
+             y="492"
+             style="fill:#ffffff"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21151">;</text>
+        </g>
+        <g
+           id="g14243"
+           inkscape:label="bot"
+           style="opacity:0.3">
+          <text
+             x="8"
+             y="528"
+             style="fill:#88b0f0"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21153">if</text>
+          <text
+             x="32"
+             y="528"
+             style="fill:#ffffff"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21155">(</text>
+          <text
+             x="40"
+             y="528"
+             style="fill:#ffffff"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21157">in_range</text>
+          <text
+             x="112"
+             y="528"
+             style="fill:#c364fc"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21159">&amp;&amp;</text>
+          <text
+             x="136"
+             y="528"
+             style="fill:#ffffff"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21161">cond</text>
+          <text
+             x="168"
+             y="528"
+             style="fill:#ffffff"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21163">)</text>
+          <text
+             x="8"
+             y="546"
+             style="fill:#ffffff"
+             font-family="'Fira Code'"
+             font-size="13px"
+             font-weight="450"
+             id="text21167" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

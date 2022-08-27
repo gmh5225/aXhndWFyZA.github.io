@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 544 372" width="544pt" height="372pt">
+    <g font-family="Fira Code" font-size="11px" font-weight="450">
+
+<rect x="0" y="0" width="544" height="372" fill="#353333" rx="4" ry="4" stroke-width="4" stroke="#6DCFF6" />
+
+    <text x="7" y="20" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B97FA&#160;</tspan><tspan class="hlr hlr-name-variable">aTaurine</tspan><tspan>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="hlr hlr-keyword-type">DCB</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-string">"/taurine"</tspan><tspan class="hlr hlr-punctuation">,</tspan><tspan class="hlr hlr-literal-number-integer">0</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="36" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B97FA</tspan></text>
+<text x="7" y="52" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9803&#160;</tspan><tspan class="hlr hlr-name-variable">aTaurineCstmp</tspan><tspan>&#160;&#160;&#160;</tspan><tspan class="hlr hlr-keyword-type">DCB</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-string">"/taurine/cstmp"</tspan><tspan class="hlr hlr-punctuation">,</tspan><tspan class="hlr hlr-literal-number-integer">0</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="68" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9803</tspan></text>
+<text x="7" y="84" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9812&#160;</tspan><tspan class="hlr hlr-name-variable">aTaurineJailbre</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-keyword-type">DCB</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-string">"/taurine/jailbreakd"</tspan><tspan class="hlr hlr-punctuation">,</tspan><tspan class="hlr hlr-literal-number-integer">0</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="100" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9812</tspan></text>
+<text x="7" y="116" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9812</tspan></text>
+<text x="7" y="132" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9826&#160;</tspan><tspan>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="hlr hlr-keyword-type">DCD</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-integer">0</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="148" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B982A&#160;</tspan><tspan class="hlr hlr-name-variable">aTaurineLaunchj</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-keyword-type">DCB</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-string">"/taurine/launchjailbreak"</tspan><tspan class="hlr hlr-punctuation">,</tspan><tspan class="hlr hlr-literal-number-integer">0</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="164" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B982A</tspan></text>
+<text x="7" y="180" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B982A</tspan></text>
+<text x="7" y="196" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9843&#160;</tspan><tspan class="hlr hlr-name-variable">aTaurineJbexec</tspan><tspan>&#160;&#160;</tspan><tspan class="hlr hlr-keyword-type">DCB</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-string">"/taurine/jbexec"</tspan><tspan class="hlr hlr-punctuation">,</tspan><tspan class="hlr hlr-literal-number-integer">0</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="212" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9843</tspan></text>
+<text x="7" y="228" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9853&#160;</tspan><tspan class="hlr hlr-name-variable">aTaurineAmfideb</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-keyword-type">DCB</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-string">"/taurine/amfidebilitate"</tspan><tspan class="hlr hlr-punctuation">,</tspan><tspan class="hlr hlr-literal-number-integer">0</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="244" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9853</tspan></text>
+<text x="7" y="260" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9853</tspan></text>
+<text x="7" y="276" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B986B&#160;</tspan><tspan class="hlr hlr-name-variable">aTaurinePspawnP</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-keyword-type">DCB</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-string">"/taurine/pspawn_payload.dylib"</tspan><tspan class="hlr hlr-punctuation">,</tspan><tspan class="hlr hlr-literal-number-integer">0</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="292" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B986B</tspan></text>
+<text x="7" y="308" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B986B</tspan></text>
+<text x="7" y="324" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9889&#160;</tspan><tspan class="hlr hlr-name-variable">aInstalledTauri</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-keyword-type">DCB</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-string">"/.installed_taurine"</tspan><tspan class="hlr hlr-punctuation">,</tspan><tspan class="hlr hlr-literal-number-integer">0</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="340" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9889</tspan></text>
+<text x="7" y="356" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9889</tspan></text>
+<text x="7" y="372" xml:space="preserve">
+</text>
+
+    </g>
+</svg>
+        

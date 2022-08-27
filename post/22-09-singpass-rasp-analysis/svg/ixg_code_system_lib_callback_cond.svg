@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 531 107" width="100%" height="100%">
+    <g font-family="Fira Code" font-size="12px" font-weight="500">
+
+<rect x="0" y="0" width="531" height="107" fill="#353333"
+      stroke-width="5" stroke="#6DCFF6" />
+
+    <text x="7" y="22"  xml:space="preserve"><tspan fill="#88b0f0">if</tspan><tspan>&#160;</tspan><tspan fill="#ffffff">(</tspan><tspan fill="#ffffff">info</tspan><tspan fill="#ffffff">.</tspan><tspan fill="#ffffff">pages_swapped_out</tspan><tspan>&#160;</tspan><tspan fill="#C364FC">!=</tspan><tspan>&#160;</tspan><tspan fill="#6DCFF6">0</tspan><tspan>&#160;</tspan><tspan fill="#C364FC">|</tspan><tspan fill="#C364FC">|</tspan><tspan fill="#ffffff"></tspan></text>
+<text x="7" y="39"  xml:space="preserve"><tspan fill="#ffffff">&#160;&#160;&#160;&#160;</tspan><tspan fill="#ffffff">info</tspan><tspan fill="#ffffff">.</tspan><tspan fill="#ffffff">pages_swapped_out</tspan><tspan>&#160;</tspan><tspan fill="#C364FC">==</tspan><tspan>&#160;</tspan><tspan fill="#6DCFF6">0</tspan><tspan>&#160;</tspan><tspan fill="#C364FC">&amp;&amp;</tspan><tspan>&#160;</tspan><tspan fill="#ffffff">info</tspan><tspan fill="#ffffff">.</tspan><tspan fill="#ffffff">protection</tspan><tspan>&#160;</tspan><tspan fill="#C364FC">&amp;</tspan><tspan>&#160;</tspan><tspan fill="#ffffff">VM_PROT_EXECUTE</tspan><tspan fill="#ffffff">)</tspan><tspan fill="#ffffff"></tspan></text>
+<text x="7" y="56" opacity="0.5" xml:space="preserve"><tspan fill="#ffffff">{</tspan><tspan fill="#ffffff"></tspan></text>
+<text x="7" y="73" opacity="0.5" xml:space="preserve"><tspan fill="#ffffff">&#160;&#160;</tspan><tspan fill="#88b0f0">bool</tspan><tspan>&#160;</tspan><tspan fill="#ffffff">integrity_failed</tspan><tspan>&#160;</tspan><tspan fill="#C364FC">=</tspan><tspan>&#160;</tspan><tspan fill="#FDD418">check_region_cbk</tspan><tspan fill="#ffffff">(</tspan><tspan fill="#ffffff">address</tspan><tspan fill="#ffffff">)</tspan><tspan fill="#ffffff">;</tspan><tspan fill="#ffffff"></tspan></text>
+<text x="7" y="90" opacity="0.5" xml:space="preserve"><tspan fill="#ffffff">}</tspan><tspan fill="#ffffff"></tspan></text>
+<text x="7" y="107"  xml:space="preserve"></text>
+
+    </g>
+</svg>
+        

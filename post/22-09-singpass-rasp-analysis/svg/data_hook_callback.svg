@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 625 100" width="100%" height="100%">
+    <g font-family="Fira Code" font-size="11px" font-weight="450">
+
+<rect x="0" y="0" width="625" height="100" fill="#353333" rx="4" ry="4"
+      stroke-width="6" stroke="#6DCFF6" />
+
+    <text x="7" y="20" opacity="0.7" xml:space="preserve"><tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">000000010109D758&#160;</tspan><tspan class="hlr hlr-name-variable">off_10109D758</tspan><tspan>&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="hlr hlr-keyword-type">DCQ</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-name-function">sub_100ED9F00</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="36"  xml:space="preserve"><tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">000000010109D760&#160;</tspan><tspan class="hlr hlr-name-variable">hook_detect_cbk_ptr</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-keyword-type">DCQ</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-name-function">hook_detect_cbk</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-comment">;&#160;Hook&#160;Detection&#160;Callback</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="52" opacity="0.7" xml:space="preserve"><tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">000000010109D768&#160;</tspan><tspan class="hlr hlr-name-variable">word_10109D768</tspan><tspan>&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="hlr hlr-keyword-type">DCW</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-hex">0xDBE3</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="68" opacity="0.7" xml:space="preserve"><tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">000000010109D76A&#160;</tspan><tspan class="hlr hlr-name-variable">byte_10109D76A</tspan><tspan>&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="hlr hlr-keyword-type">DCB</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-integer">1</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="84" opacity="0.7" xml:space="preserve"><tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">000000010109D76B&#160;</tspan><tspan class="hlr hlr-name-variable">byte_10109D76B</tspan><tspan>&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="hlr hlr-keyword-type">DCB</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-integer">1</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="100"  xml:space="preserve"></text>
+
+    </g>
+</svg>
+        

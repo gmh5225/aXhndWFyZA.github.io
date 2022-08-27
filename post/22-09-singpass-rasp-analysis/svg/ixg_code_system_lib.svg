@@ -1,0 +1,888 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="0 0 825 600" width="100%" height="100%">
+	<g id="bottom">
+		<path d="M 223.5 533.98 L 753.15 533.98 C 754.806 533.98 756.15 535.324 756.15 536.98 L 756.15 567.5 C 756.15 569.156 754.806 570.5 753.15 570.5 L 223.5 570.5 C 221.844 570.5 220.5 569.156 220.5 567.5 L 220.5 536.98 C 220.5 535.324 221.844 533.98 223.5 533.98 Z" style="stroke:none;fill:#353333;stroke-miterlimit:10;"/>
+		<path d="M 223.5 533.98 L 753.15 533.98 C 754.806 533.98 756.15 535.324 756.15 536.98 L 756.15 567.5 C 756.15 569.156 754.806 570.5 753.15 570.5 L 223.5 570.5 C 221.844 570.5 220.5 569.156 220.5 567.5 L 220.5 536.98 C 220.5 535.324 221.844 533.98 223.5 533.98 Z" style="fill:none;stroke:#6DCFF6;stroke-width:3;stroke-linecap:square;stroke-miterlimit:2;"/>
+		<g clip-path="url(#_clipPath_dq06krVQydFmkXzS4RlzigdhrVjcp67D)">
+			<text transform="matrix(1.035,0,0,1.035,227.324,553.686)" id="Text" class="hlr hlr-name-function" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">loc_libs_ok</text>
+		</g>
+		<defs>
+			<clipPath id="_clipPath_dq06krVQydFmkXzS4RlzigdhrVjcp67D">
+				<rect x="0" y="0" width="90" height="16" transform="matrix(1.035,0,0,1.035,227.324,541.268)"/>
+			</clipPath>
+		</defs>
+	</g>
+	<g id="middle">
+		<path d="M 223.5 180.93 L 753.15 180.93 C 754.806 180.93 756.15 182.274 756.15 183.93 L 756.15 482.28 C 756.15 483.936 754.806 485.28 753.15 485.28 L 223.5 485.28 C 221.844 485.28 220.5 483.936 220.5 482.28 L 220.5 183.93 C 220.5 182.274 221.844 180.93 223.5 180.93 Z" style="stroke:none;fill:#353333;stroke-linecap:square;stroke-miterlimit:2;"/>
+		<path d="M 223.5 180.93 L 753.15 180.93 C 754.806 180.93 756.15 182.274 756.15 183.93 L 756.15 482.28 C 756.15 483.936 754.806 485.28 753.15 485.28 L 223.5 485.28 C 221.844 485.28 220.5 483.936 220.5 482.28 L 220.5 183.93 C 220.5 182.274 221.844 180.93 223.5 180.93 Z" style="fill:none;stroke:#6DCFF6;stroke-width:3;stroke-linecap:square;stroke-miterlimit:2;"/>
+		<g id="Group">
+			<g clip-path="url(#_clipPath_15E1keIkzTeP7tjJ5hi1HsRa9oAjn8eP)">
+				<text transform="matrix(1.043,0,0,1.043,232.174,206.627)" id="Text" class="hlr hlr-name-instruction" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">MOV</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_15E1keIkzTeP7tjJ5hi1HsRa9oAjn8eP">
+					<rect x="0" y="0" width="26" height="16" transform="matrix(1.043,0,0,1.043,232.174,194.105)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_y7CZRmFOvaVdRCQFrqpLSW3C1priNfDH)">
+				<text transform="matrix(1.043,0,0,1.043,365.739,206.627)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">X20</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_y7CZRmFOvaVdRCQFrqpLSW3C1priNfDH">
+					<rect x="0" y="0" width="26" height="16" transform="matrix(1.043,0,0,1.043,365.739,194.105)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_faHzo62pBzXLZt6lcy8ZdpHpRkXtWrRt)">
+				<text transform="matrix(1.043,0,0,1.043,390.783,206.627)" id="Text" class="hlr hlr-punctuation" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">,</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_faHzo62pBzXLZt6lcy8ZdpHpRkXtWrRt">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.043,0,0,1.043,390.783,194.105)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_oeg391BRD6VskxQf03w9Bx0EW8SaExV5)">
+				<text transform="matrix(1.043,0,0,1.043,407.478,206.627)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">SP</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_oeg391BRD6VskxQf03w9Bx0EW8SaExV5">
+					<rect x="0" y="0" width="18" height="16" transform="matrix(1.043,0,0,1.043,407.478,194.105)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_zv8LTIstRQtucRgQrMt1D5TIsO4qRFBf)">
+				<text transform="matrix(1.043,0,0,1.043,232.174,225.409)" id="Text" class="hlr hlr-name-instruction" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">ADRP</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_zv8LTIstRQtucRgQrMt1D5TIsO4qRFBf">
+					<rect x="0" y="0" width="34" height="16" transform="matrix(1.043,0,0,1.043,232.174,212.888)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_p0jkbVbnslN0LTHpjWlEKe2FMR7oXPGm)">
+				<text transform="matrix(1.043,0,0,1.043,365.739,225.409)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">X8</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_p0jkbVbnslN0LTHpjWlEKe2FMR7oXPGm">
+					<rect x="0" y="0" width="18" height="16" transform="matrix(1.043,0,0,1.043,365.739,212.888)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_kNIwv8EKlnCStoHDL7NzdS8sf4gNIyLf)">
+				<text transform="matrix(1.043,0,0,1.043,382.435,225.409)" id="Text" class="hlr hlr-punctuation" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">,</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_kNIwv8EKlnCStoHDL7NzdS8sf4gNIyLf">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.043,0,0,1.043,382.435,212.888)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_wrTWMnnMyy0ofd2TBrzwxZAcrFABhHEj)">
+				<text transform="matrix(1.043,0,0,1.043,399.13,225.409)" id="Text" class="hlr hlr-comment" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">#EVT_CODE_SYSTEM_LIB_cbk_ptr</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_wrTWMnnMyy0ofd2TBrzwxZAcrFABhHEj">
+					<rect x="0" y="0" width="226" height="16" transform="matrix(1.043,0,0,1.043,399.13,212.888)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_MM9reXmXxDN1wiYxDjPiYpmVVJDla8Rx)">
+				<text transform="matrix(1.043,0,0,1.043,632.87,225.409)" id="Text" class="hlr hlr-comment-preproc" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">@PAGE</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_MM9reXmXxDN1wiYxDjPiYpmVVJDla8Rx">
+					<rect x="0" y="0" width="42" height="16" transform="matrix(1.043,0,0,1.043,632.87,212.888)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_ltkqDIOFl04VOCasoogY2uMI2SZqygwe)">
+				<text transform="matrix(1.043,0,0,1.043,232.174,244.192)" id="Text" class="hlr hlr-name-instruction" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">LDR</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_ltkqDIOFl04VOCasoogY2uMI2SZqygwe">
+					<rect x="0" y="0" width="26" height="16" transform="matrix(1.043,0,0,1.043,232.174,231.67)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_j79MwsMN5YTea6CoTqAa5CINcr1Nm03x)">
+				<text transform="matrix(1.043,0,0,1.043,365.739,244.192)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">X8</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_j79MwsMN5YTea6CoTqAa5CINcr1Nm03x">
+					<rect x="0" y="0" width="18" height="16" transform="matrix(1.043,0,0,1.043,365.739,231.67)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_lvHCg6eAuZVyqx8caylGuvjGfDai90Ea)">
+				<text transform="matrix(1.043,0,0,1.043,382.435,244.192)" id="Text" class="hlr hlr-punctuation" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">,</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_lvHCg6eAuZVyqx8caylGuvjGfDai90Ea">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.043,0,0,1.043,382.435,231.67)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_38027tKLhcfCPxBviRfYojTcz3xpIYHM)">
+				<text transform="matrix(1.043,0,0,1.043,399.13,244.192)" id="Text" class="hlr hlr-error" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">[</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_38027tKLhcfCPxBviRfYojTcz3xpIYHM">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.043,0,0,1.043,399.13,231.67)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_sO4roNyudOIix310jnYTmz0poM8pDje5)">
+				<text transform="matrix(1.043,0,0,1.043,407.478,244.192)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">X8</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_sO4roNyudOIix310jnYTmz0poM8pDje5">
+					<rect x="0" y="0" width="18" height="16" transform="matrix(1.043,0,0,1.043,407.478,231.67)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_iH6Nvd2IQJn0OkJkUdB1NLBw2q40nzKH)">
+				<text transform="matrix(1.043,0,0,1.043,424.174,244.192)" id="Text" class="hlr hlr-punctuation" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">,</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_iH6Nvd2IQJn0OkJkUdB1NLBw2q40nzKH">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.043,0,0,1.043,424.174,231.67)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_ogyCtCnprAu5nStCKHvUBXnJcO1T64uS)">
+				<text transform="matrix(1.043,0,0,1.043,432.522,244.192)" id="Text" class="hlr hlr-comment" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">#EVT_CODE_SYSTEM_LIB_cbk_ptr</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_ogyCtCnprAu5nStCKHvUBXnJcO1T64uS">
+					<rect x="0" y="0" width="226" height="16" transform="matrix(1.043,0,0,1.043,432.522,231.67)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_QDT7x1zDK32XKHvyQp2Gl7EV0dQFR9zl)">
+				<text transform="matrix(1.043,0,0,1.043,666.261,244.192)" id="Text" class="hlr hlr-comment-preproc" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">@PAGEOFF</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_QDT7x1zDK32XKHvyQp2Gl7EV0dQFR9zl">
+					<rect x="0" y="0" width="66" height="16" transform="matrix(1.043,0,0,1.043,666.261,231.67)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_GwyvH8ZVWfOzKq1cwR2HXNcglUiN0Ok6)">
+				<text transform="matrix(1.043,0,0,1.043,733.043,244.192)" id="Text" class="hlr hlr-error" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">]</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_GwyvH8ZVWfOzKq1cwR2HXNcglUiN0Ok6">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.043,0,0,1.043,733.043,231.67)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_mmjNJOeXc38C3THX4z6YIBo2wElSL6MK)">
+				<text transform="matrix(1.043,0,0,1.043,232.174,262.975)" id="Text" class="hlr hlr-name-instruction" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">MOV</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_mmjNJOeXc38C3THX4z6YIBo2wElSL6MK">
+					<rect x="0" y="0" width="26" height="16" transform="matrix(1.043,0,0,1.043,232.174,250.453)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_fDK1Whbka4zCkKakKJLATpP0hghr3i5e)">
+				<text transform="matrix(1.043,0,0,1.043,365.739,262.975)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">X9</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_fDK1Whbka4zCkKakKJLATpP0hghr3i5e">
+					<rect x="0" y="0" width="18" height="16" transform="matrix(1.043,0,0,1.043,365.739,250.453)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_paXIwE65tKvqgt5CJ1oW3j8elmxDjmZI)">
+				<text transform="matrix(1.043,0,0,1.043,382.435,262.975)" id="Text" class="hlr hlr-punctuation" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">,</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_paXIwE65tKvqgt5CJ1oW3j8elmxDjmZI">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.043,0,0,1.043,382.435,250.453)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_JkA2t3AU9jjAmCEJggPrlP54H032B0H8)">
+				<text transform="matrix(1.043,0,0,1.043,399.13,262.975)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">SP</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_JkA2t3AU9jjAmCEJggPrlP54H032B0H8">
+					<rect x="0" y="0" width="18" height="16" transform="matrix(1.043,0,0,1.043,399.13,250.453)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_0z8DyxVQ0UQdpyhmgZGxzkLjwfeY0Bgp)">
+				<text transform="matrix(1.043,0,0,1.043,232.174,281.757)" id="Text" class="hlr hlr-name-instruction" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">SUB</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_0z8DyxVQ0UQdpyhmgZGxzkLjwfeY0Bgp">
+					<rect x="0" y="0" width="26" height="16" transform="matrix(1.043,0,0,1.043,232.174,269.235)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_7i6RWjtRL09ZZhtIdR4g1fjxehSVTIKY)">
+				<text transform="matrix(1.043,0,0,1.043,365.739,281.757)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">X10</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_7i6RWjtRL09ZZhtIdR4g1fjxehSVTIKY">
+					<rect x="0" y="0" width="26" height="16" transform="matrix(1.043,0,0,1.043,365.739,269.235)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_ZRs6bTKzP9tNIxuxUt4Hqq9VEuj2AYoC)">
+				<text transform="matrix(1.043,0,0,1.043,390.783,281.757)" id="Text" class="hlr hlr-punctuation" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">,</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_ZRs6bTKzP9tNIxuxUt4Hqq9VEuj2AYoC">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.043,0,0,1.043,390.783,269.235)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_5riKD1g5ZUyWcLIBjKdes48k5N7wq1Nv)">
+				<text transform="matrix(1.043,0,0,1.043,407.478,281.757)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">X9</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_5riKD1g5ZUyWcLIBjKdes48k5N7wq1Nv">
+					<rect x="0" y="0" width="18" height="16" transform="matrix(1.043,0,0,1.043,407.478,269.235)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_nJjvUTvVR6ZxkVA43KFd6oFXjPQG4DLy)">
+				<text transform="matrix(1.043,0,0,1.043,424.174,281.757)" id="Text" class="hlr hlr-punctuation" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">,</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_nJjvUTvVR6ZxkVA43KFd6oFXjPQG4DLy">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.043,0,0,1.043,424.174,269.235)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_HVXLVEVzWK1OQpwucdnd1mtk8QRT1Bk6)">
+				<text transform="matrix(1.043,0,0,1.043,440.87,281.757)" id="Text" class="hlr hlr-literal-number-hex" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">#0x10</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_HVXLVEVzWK1OQpwucdnd1mtk8QRT1Bk6">
+					<rect x="0" y="0" width="42" height="16" transform="matrix(1.043,0,0,1.043,440.87,269.235)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_cpixaoHrIwuUGhfWbeS67Mv6YBu8bAFJ)">
+				<text transform="matrix(1.043,0,0,1.043,232.174,300.54)" id="Text" class="hlr hlr-name-instruction" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">MOV</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_cpixaoHrIwuUGhfWbeS67Mv6YBu8bAFJ">
+					<rect x="0" y="0" width="26" height="16" transform="matrix(1.043,0,0,1.043,232.174,288.018)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_pe5W1cEu8BHsRAL4o0P7ukcDNFGyKBlO)">
+				<text transform="matrix(1.043,0,0,1.043,365.739,300.54)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">SP</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_pe5W1cEu8BHsRAL4o0P7ukcDNFGyKBlO">
+					<rect x="0" y="0" width="18" height="16" transform="matrix(1.043,0,0,1.043,365.739,288.018)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_Js46JlqT3PNO2m7Oq3P9ySZUkmZot3Pj)">
+				<text transform="matrix(1.043,0,0,1.043,382.435,300.54)" id="Text" class="hlr hlr-punctuation" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">,</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_Js46JlqT3PNO2m7Oq3P9ySZUkmZot3Pj">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.043,0,0,1.043,382.435,288.018)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_cdszpEXIlsc28AtTgQ8RxXX0zhC212nV)">
+				<text transform="matrix(1.043,0,0,1.043,399.13,300.54)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">X10</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_cdszpEXIlsc28AtTgQ8RxXX0zhC212nV">
+					<rect x="0" y="0" width="26" height="16" transform="matrix(1.043,0,0,1.043,399.13,288.018)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_03PeJ5rlC5J607xgaqoFfOJ6xSpsEQSm)">
+				<text transform="matrix(1.043,0,0,1.043,232.174,319.322)" id="Text" class="hlr hlr-name-instruction" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">STUR</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_03PeJ5rlC5J607xgaqoFfOJ6xSpsEQSm">
+					<rect x="0" y="0" width="34" height="16" transform="matrix(1.043,0,0,1.043,232.174,306.801)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_weGUedJy5m3q3wfehDS0omISwxxSOYM0)">
+				<text transform="matrix(1.043,0,0,1.043,365.739,319.322)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">X28</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_weGUedJy5m3q3wfehDS0omISwxxSOYM0">
+					<rect x="0" y="0" width="26" height="16" transform="matrix(1.043,0,0,1.043,365.739,306.801)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_8BZXSTx3HL4PIex5L539hH8PWjWQsewK)">
+				<text transform="matrix(1.043,0,0,1.043,390.783,319.322)" id="Text" class="hlr hlr-punctuation" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">,</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_8BZXSTx3HL4PIex5L539hH8PWjWQsewK">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.043,0,0,1.043,390.783,306.801)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_GuUQIxo1hWdOPPByBcpu8jLkmOCBHvm9)">
+				<text transform="matrix(1.043,0,0,1.043,407.478,319.322)" id="Text" class="hlr hlr-error" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">[</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_GuUQIxo1hWdOPPByBcpu8jLkmOCBHvm9">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.043,0,0,1.043,407.478,306.801)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_NCckl3ALsoCHkbDueHMEDTbEdD4jAotW)">
+				<text transform="matrix(1.043,0,0,1.043,415.826,319.322)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">X9</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_NCckl3ALsoCHkbDueHMEDTbEdD4jAotW">
+					<rect x="0" y="0" width="18" height="16" transform="matrix(1.043,0,0,1.043,415.826,306.801)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_1grj9yVA8o21bEOfxhCsOBqdScyIuGBi)">
+				<text transform="matrix(1.043,0,0,1.043,432.522,319.322)" id="Text" class="hlr hlr-punctuation" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">,</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_1grj9yVA8o21bEOfxhCsOBqdScyIuGBi">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.043,0,0,1.043,432.522,306.801)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_YjygtnmL43HuBv3iRv12wkZGfRr6iHsl)">
+				<text transform="matrix(1.043,0,0,1.043,440.87,319.322)" id="Text" class="hlr hlr-literal-number-hex" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">#-0x10</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_YjygtnmL43HuBv3iRv12wkZGfRr6iHsl">
+					<rect x="0" y="0" width="50" height="16" transform="matrix(1.043,0,0,1.043,440.87,306.801)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_UeRyyOvLTQo0e5CrMYvAwgfepoJqNVAU)">
+				<text transform="matrix(1.043,0,0,1.043,490.957,319.322)" id="Text" class="hlr hlr-error" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">]</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_UeRyyOvLTQo0e5CrMYvAwgfepoJqNVAU">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.043,0,0,1.043,490.957,306.801)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_0XQsq1rlXuVcvv1a7B1OaNJtC34GhpUq)">
+				<text transform="matrix(1.043,0,0,1.043,232.174,338.105)" id="Text" class="hlr hlr-name-instruction" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">MOV</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_0XQsq1rlXuVcvv1a7B1OaNJtC34GhpUq">
+					<rect x="0" y="0" width="26" height="16" transform="matrix(1.043,0,0,1.043,232.174,325.583)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_8xPCVFxM0fFkKgUBlp2pHN9znSwiO6LT)">
+				<text transform="matrix(1.043,0,0,1.043,365.739,338.105)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">X9</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_8xPCVFxM0fFkKgUBlp2pHN9znSwiO6LT">
+					<rect x="0" y="0" width="18" height="16" transform="matrix(1.043,0,0,1.043,365.739,325.583)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_NSfe3yPdDhnL3p3u42gD7PE1j5LT0W9e)">
+				<text transform="matrix(1.043,0,0,1.043,382.435,338.105)" id="Text" class="hlr hlr-punctuation" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">,</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_NSfe3yPdDhnL3p3u42gD7PE1j5LT0W9e">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.043,0,0,1.043,382.435,325.583)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_Vrm3pANefHUuf9wQDSKtmUqxo22su0zb)">
+				<text transform="matrix(1.043,0,0,1.043,399.13,338.105)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">SP</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_Vrm3pANefHUuf9wQDSKtmUqxo22su0zb">
+					<rect x="0" y="0" width="18" height="16" transform="matrix(1.043,0,0,1.043,399.13,325.583)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_l8Rx1IIP6xt4pXy04DlCC1ROaTT25Jci)">
+				<text transform="matrix(1.043,0,0,1.043,232.174,356.888)" id="Text" class="hlr hlr-name-instruction" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">SUB</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_l8Rx1IIP6xt4pXy04DlCC1ROaTT25Jci">
+					<rect x="0" y="0" width="26" height="16" transform="matrix(1.043,0,0,1.043,232.174,344.366)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_VMQ9mG8hMN2dilsso4m14d3uIGiWG6wW)">
+				<text transform="matrix(1.043,0,0,1.043,365.739,356.888)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">X0</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_VMQ9mG8hMN2dilsso4m14d3uIGiWG6wW">
+					<rect x="0" y="0" width="18" height="16" transform="matrix(1.043,0,0,1.043,365.739,344.366)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_r39kDywkaePqKwBWCUHCI2i4qG625UIg)">
+				<text transform="matrix(1.043,0,0,1.043,382.435,356.888)" id="Text" class="hlr hlr-punctuation" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">,</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_r39kDywkaePqKwBWCUHCI2i4qG625UIg">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.043,0,0,1.043,382.435,344.366)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_zTZ4ce78TbYO45zERsIYDHiRoUhJ6hCw)">
+				<text transform="matrix(1.043,0,0,1.043,399.13,356.888)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">X9</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_zTZ4ce78TbYO45zERsIYDHiRoUhJ6hCw">
+					<rect x="0" y="0" width="18" height="16" transform="matrix(1.043,0,0,1.043,399.13,344.366)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_OuzBo1oFTYnaPs5vxLGsWRmpZwxBhG7l)">
+				<text transform="matrix(1.043,0,0,1.043,415.826,356.888)" id="Text" class="hlr hlr-punctuation" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">,</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_OuzBo1oFTYnaPs5vxLGsWRmpZwxBhG7l">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.043,0,0,1.043,415.826,344.366)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_ANrULFBFFuQlpiQdPXBOPHWtSc9ZEGv4)">
+				<text transform="matrix(1.043,0,0,1.043,432.522,356.888)" id="Text" class="hlr hlr-literal-number-hex" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">#0x10</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_ANrULFBFFuQlpiQdPXBOPHWtSc9ZEGv4">
+					<rect x="0" y="0" width="42" height="16" transform="matrix(1.043,0,0,1.043,432.522,344.366)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_ly8Y2gDHLpRt4GhkLySSN9QtYFINQIGL)">
+				<text transform="matrix(1.043,0,0,1.043,232.174,375.67)" id="Text" class="hlr hlr-name-instruction" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">MOV</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_ly8Y2gDHLpRt4GhkLySSN9QtYFINQIGL">
+					<rect x="0" y="0" width="26" height="16" transform="matrix(1.043,0,0,1.043,232.174,363.148)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_MSPvk3gKdJtYTKkLvoTSAgBR4Vkgdkej)">
+				<text transform="matrix(1.043,0,0,1.043,365.739,375.67)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">SP</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_MSPvk3gKdJtYTKkLvoTSAgBR4Vkgdkej">
+					<rect x="0" y="0" width="18" height="16" transform="matrix(1.043,0,0,1.043,365.739,363.148)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_ccFqwRyOxNO0eoq8cWijGxzJvSa01qPl)">
+				<text transform="matrix(1.043,0,0,1.043,382.435,375.67)" id="Text" class="hlr hlr-punctuation" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">,</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_ccFqwRyOxNO0eoq8cWijGxzJvSa01qPl">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.043,0,0,1.043,382.435,363.148)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_emg7AZniw7WMcJD8iAwaTMLFj2koOZ9Z)">
+				<text transform="matrix(1.043,0,0,1.043,399.13,375.67)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">X0</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_emg7AZniw7WMcJD8iAwaTMLFj2koOZ9Z">
+					<rect x="0" y="0" width="18" height="16" transform="matrix(1.043,0,0,1.043,399.13,363.148)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_d5NtZyLNhLpwwklVVoATi8xMx6iELkQH)">
+				<text transform="matrix(1.043,0,0,1.043,232.174,394.453)" id="Text" class="hlr hlr-name-instruction" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">MOV</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_d5NtZyLNhLpwwklVVoATi8xMx6iELkQH">
+					<rect x="0" y="0" width="26" height="16" transform="matrix(1.043,0,0,1.043,232.174,381.931)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_bK8zWKkVJgkfFFzcfDfNtubF4OyTMyJ3)">
+				<text transform="matrix(1.043,0,0,1.043,365.739,394.453)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">W11</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_bK8zWKkVJgkfFFzcfDfNtubF4OyTMyJ3">
+					<rect x="0" y="0" width="26" height="16" transform="matrix(1.043,0,0,1.043,365.739,381.931)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_AhekOBqVcSEkMALPSWyECER203Q3Mgix)">
+				<text transform="matrix(1.043,0,0,1.043,390.783,394.453)" id="Text" class="hlr hlr-punctuation" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">,</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_AhekOBqVcSEkMALPSWyECER203Q3Mgix">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.043,0,0,1.043,390.783,381.931)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_X8iBEprIQ1GCYl0EmmXwG1Mps5iUXAkl)">
+				<text transform="matrix(1.043,0,0,1.043,407.478,394.453)" id="Text" class="hlr hlr-comment-special" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">#0x1000</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_X8iBEprIQ1GCYl0EmmXwG1Mps5iUXAkl">
+					<rect x="0" y="0" width="58" height="16" transform="matrix(1.043,0,0,1.043,407.478,381.931)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_0hOGvBChY3zjdvdomfFiOAmfqGoLa2JI)">
+				<text transform="matrix(1.043,0,0,1.043,474.261,394.453)" id="Text" class="hlr hlr-comment-special" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">---&gt; EVT_CODE_SYSTEM_LIB</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_0hOGvBChY3zjdvdomfFiOAmfqGoLa2JI">
+					<rect x="0" y="0" width="194" height="16" transform="matrix(1.043,0,0,1.043,474.261,381.931)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_UM3iTI2e8etLdIV0ydgYRR2nfGw1PIMO)">
+				<text transform="matrix(1.043,0,0,1.043,232.174,413.235)" id="Text" class="hlr hlr-name-instruction" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">STUR</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_UM3iTI2e8etLdIV0ydgYRR2nfGw1PIMO">
+					<rect x="0" y="0" width="34" height="16" transform="matrix(1.043,0,0,1.043,232.174,400.714)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_uwlZQU5mgaxXLQtWUE3y9spEfZcjubwd)">
+				<text transform="matrix(1.043,0,0,1.043,365.739,413.235)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">W11</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_uwlZQU5mgaxXLQtWUE3y9spEfZcjubwd">
+					<rect x="0" y="0" width="26" height="16" transform="matrix(1.043,0,0,1.043,365.739,400.714)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_1dAH7rAxNh7SgzfQJNZV7MbqK58QLOzR)">
+				<text transform="matrix(1.043,0,0,1.043,390.783,413.235)" id="Text" class="hlr hlr-punctuation" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">,</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_1dAH7rAxNh7SgzfQJNZV7MbqK58QLOzR">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.043,0,0,1.043,390.783,400.714)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_yaqMY6yXND6RMtMsD4ZlhTdRiEH29Mnd)">
+				<text transform="matrix(1.043,0,0,1.043,407.478,413.235)" id="Text" class="hlr hlr-error" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">[</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_yaqMY6yXND6RMtMsD4ZlhTdRiEH29Mnd">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.043,0,0,1.043,407.478,400.714)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_n1ecMum2kCcRtaHMzmIRnMU6QZotEbzv)">
+				<text transform="matrix(1.043,0,0,1.043,415.826,413.235)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">X9</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_n1ecMum2kCcRtaHMzmIRnMU6QZotEbzv">
+					<rect x="0" y="0" width="18" height="16" transform="matrix(1.043,0,0,1.043,415.826,400.714)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_AN6ruS4KQpbGhfzAq6xK4OtJTuXjmItz)">
+				<text transform="matrix(1.043,0,0,1.043,432.522,413.235)" id="Text" class="hlr hlr-punctuation" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">,</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_AN6ruS4KQpbGhfzAq6xK4OtJTuXjmItz">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.043,0,0,1.043,432.522,400.714)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_MiK5k0vwOJ9fBHZeLQBilZIyqTUOulpx)">
+				<text transform="matrix(1.043,0,0,1.043,440.87,413.235)" id="Text" class="hlr hlr-literal-number-hex" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">#-0x10</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_MiK5k0vwOJ9fBHZeLQBilZIyqTUOulpx">
+					<rect x="0" y="0" width="50" height="16" transform="matrix(1.043,0,0,1.043,440.87,400.714)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_2IetjhuWfK5PIjEstaI8Mjftgdj4XGW3)">
+				<text transform="matrix(1.043,0,0,1.043,490.957,413.235)" id="Text" class="hlr hlr-error" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">]</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_2IetjhuWfK5PIjEstaI8Mjftgdj4XGW3">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.043,0,0,1.043,490.957,400.714)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_HwUgDPbGoHml0xIGAxg1cBh9IzIwszsd)">
+				<text transform="matrix(1.043,0,0,1.043,232.174,432.018)" id="Text" class="hlr hlr-name-instruction" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">STUR</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_HwUgDPbGoHml0xIGAxg1cBh9IzIwszsd">
+					<rect x="0" y="0" width="34" height="16" transform="matrix(1.043,0,0,1.043,232.174,419.496)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_xbkV0GNRfEwd7JnrpOlO0nOLxZ22Dkda)">
+				<text transform="matrix(1.043,0,0,1.043,365.739,432.018)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">X10</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_xbkV0GNRfEwd7JnrpOlO0nOLxZ22Dkda">
+					<rect x="0" y="0" width="26" height="16" transform="matrix(1.043,0,0,1.043,365.739,419.496)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_fsQvYMcajOuUcNqV9WDSZFfmJgf79Q0a)">
+				<text transform="matrix(1.043,0,0,1.043,390.783,432.018)" id="Text" class="hlr hlr-punctuation" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">,</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_fsQvYMcajOuUcNqV9WDSZFfmJgf79Q0a">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.043,0,0,1.043,390.783,419.496)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_8JKyGZKUjNsKXEv1VA90bZh7pa2Bsif5)">
+				<text transform="matrix(1.043,0,0,1.043,407.478,432.018)" id="Text" class="hlr hlr-error" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">[</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_8JKyGZKUjNsKXEv1VA90bZh7pa2Bsif5">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.043,0,0,1.043,407.478,419.496)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_Q4V2L95CtcTxgqFXIUDtHxHMBRqgaPrO)">
+				<text transform="matrix(1.043,0,0,1.043,415.826,432.018)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">X9</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_Q4V2L95CtcTxgqFXIUDtHxHMBRqgaPrO">
+					<rect x="0" y="0" width="18" height="16" transform="matrix(1.043,0,0,1.043,415.826,419.496)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_ogtKqq2F9jlveXJG10df01PCdY0nHrvw)">
+				<text transform="matrix(1.043,0,0,1.043,432.522,432.018)" id="Text" class="hlr hlr-punctuation" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">,</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_ogtKqq2F9jlveXJG10df01PCdY0nHrvw">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.043,0,0,1.043,432.522,419.496)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_ETHgD9zfreoxFWrxpIy8wP98bqXCkVVB)">
+				<text transform="matrix(1.043,0,0,1.043,440.87,432.018)" id="Text" class="hlr hlr-literal-number-integer" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">#-8</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_ETHgD9zfreoxFWrxpIy8wP98bqXCkVVB">
+					<rect x="0" y="0" width="26" height="16" transform="matrix(1.043,0,0,1.043,440.87,419.496)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_iT8rcSOTzWbdckbhDZtF6Oo33d13uVNK)">
+				<text transform="matrix(1.043,0,0,1.043,465.913,432.018)" id="Text" class="hlr hlr-error" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">]</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_iT8rcSOTzWbdckbhDZtF6Oo33d13uVNK">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.043,0,0,1.043,465.913,419.496)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_LPdXbNYL1Yj4scZIp5HC5Z3xNRdyvMS6)">
+				<text transform="matrix(1.043,0,0,1.043,232.174,450.801)" id="Text" class="hlr hlr-name-instruction" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">BLR</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_LPdXbNYL1Yj4scZIp5HC5Z3xNRdyvMS6">
+					<rect x="0" y="0" width="26" height="16" transform="matrix(1.043,0,0,1.043,232.174,438.279)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_I4eoI0td4QXnBFXScdrGYMXlCKrjiNgF)">
+				<text transform="matrix(1.043,0,0,1.043,365.739,450.801)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">X8</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_I4eoI0td4QXnBFXScdrGYMXlCKrjiNgF">
+					<rect x="0" y="0" width="18" height="16" transform="matrix(1.043,0,0,1.043,365.739,438.279)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_mOapR1EQ5W0d8BWAC8iB5d4Y9PBuKiF4)">
+				<text transform="matrix(1.043,0,0,1.043,390.783,450.801)" id="Text" class="hlr hlr-comment" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">On suspicious system lib detected</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_mOapR1EQ5W0d8BWAC8iB5d4Y9PBuKiF4">
+					<rect x="0" y="0" width="266" height="16" transform="matrix(1.043,0,0,1.043,390.783,438.279)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_qwyPQd3IW659PMm7Psv2pN5GAjEXQdwy)">
+				<text transform="matrix(1.043,0,0,1.043,232.174,469.583)" id="Text" class="hlr hlr-name-instruction" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">MOV</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_qwyPQd3IW659PMm7Psv2pN5GAjEXQdwy">
+					<rect x="0" y="0" width="26" height="16" transform="matrix(1.043,0,0,1.043,232.174,457.062)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_eKSixvCHH7pFnBKPJO3gbxJaMukz62kZ)">
+				<text transform="matrix(1.043,0,0,1.043,365.739,469.583)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">SP</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_eKSixvCHH7pFnBKPJO3gbxJaMukz62kZ">
+					<rect x="0" y="0" width="18" height="16" transform="matrix(1.043,0,0,1.043,365.739,457.062)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_4Wvr0IVS9qdpZ2lZZM6S1T0SgiqYLU9l)">
+				<text transform="matrix(1.043,0,0,1.043,382.435,469.583)" id="Text" class="hlr hlr-punctuation" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">,</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_4Wvr0IVS9qdpZ2lZZM6S1T0SgiqYLU9l">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.043,0,0,1.043,382.435,457.062)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_eCnEku0BzHlgBFu4LEXScEmwT2fl9JGL)">
+				<text transform="matrix(1.043,0,0,1.043,399.13,469.583)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">X20</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_eCnEku0BzHlgBFu4LEXScEmwT2fl9JGL">
+					<rect x="0" y="0" width="26" height="16" transform="matrix(1.043,0,0,1.043,399.13,457.062)"/>
+				</clipPath>
+			</defs>
+		</g>
+	</g>
+	<g id="top">
+		<path d="M 223.5 22.67 L 753.15 22.67 C 754.806 22.67 756.15 24.014 756.15 25.67 L 756.15 129.24 C 756.15 130.896 754.806 132.24 753.15 132.24 L 223.5 132.24 C 221.844 132.24 220.5 130.896 220.5 129.24 L 220.5 25.67 C 220.5 24.014 221.844 22.67 223.5 22.67 Z" style="stroke:none;fill:#353333;stroke-linecap:square;stroke-miterlimit:2;"/>
+		<path d="M 223.5 22.67 L 753.15 22.67 C 754.806 22.67 756.15 24.014 756.15 25.67 L 756.15 129.24 C 756.15 130.896 754.806 132.24 753.15 132.24 L 223.5 132.24 C 221.844 132.24 220.5 130.896 220.5 129.24 L 220.5 25.67 C 220.5 24.014 221.844 22.67 223.5 22.67 Z" style="fill:none;stroke:#6DCFF6;stroke-width:3;stroke-linecap:square;stroke-miterlimit:2;"/>
+		<g id="Group">
+			<g clip-path="url(#_clipPath_1Z97lEmkugGNw4muinYEusriPefhfQCf)">
+				<text transform="matrix(1.035,0,0,1.035,232.174,40.912)" id="Text" class="hlr hlr-name-label" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">loc_100EC946C</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_1Z97lEmkugGNw4muinYEusriPefhfQCf">
+					<rect x="0" y="0" width="106" height="16" transform="matrix(1.035,0,0,1.035,232.174,28.493)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_AwxFBDzmlOdhMR4tjcIr2Ppx5P3Rfbe4)">
+				<text transform="matrix(1.035,0,0,1.035,232.174,59.541)" id="Text" class="hlr hlr-name-instruction" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">ADR</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_AwxFBDzmlOdhMR4tjcIr2Ppx5P3Rfbe4">
+					<rect x="0" y="0" width="26" height="16" transform="matrix(1.035,0,0,1.035,232.174,47.122)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_GmeIo3bIp9p8YQyN9jtDIUm89W8oIgnT)">
+				<text transform="matrix(1.035,0,0,1.035,364.642,59.541)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">X0</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_GmeIo3bIp9p8YQyN9jtDIUm89W8oIgnT">
+					<rect x="0" y="0" width="18" height="16" transform="matrix(1.035,0,0,1.035,364.642,47.122)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_IrMCXeYZnSfZYqrsfau4oMAgA0gPJGMN)">
+				<text transform="matrix(1.035,0,0,1.035,381.201,59.541)" id="Text" class="hlr hlr-punctuation" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">,</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_IrMCXeYZnSfZYqrsfau4oMAgA0gPJGMN">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.035,0,0,1.035,381.201,47.122)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_me9B8wkiRORiAInsQUM6fNoxuefVC2md)">
+				<text transform="matrix(1.035,0,0,1.035,397.759,59.541)" id="Text" class="hlr hlr-name-function" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">check_region_cbk</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_me9B8wkiRORiAInsQUM6fNoxuefVC2md">
+					<rect x="0" y="0" width="130" height="16" transform="matrix(1.035,0,0,1.035,397.759,47.122)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_9TP3Qab1ilW1aQq0gHu0QVj3XsdrdYDM)">
+				<text transform="matrix(1.035,0,0,1.035,232.174,78.169)" id="Text" class="hlr hlr-name-instruction" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">BL</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_9TP3Qab1ilW1aQq0gHu0QVj3XsdrdYDM">
+					<rect x="0" y="0" width="18" height="16" transform="matrix(1.035,0,0,1.035,232.174,65.75)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_GoHIxyrGoY3BeMDjrEQnMHxfNpR63SoI)">
+				<text transform="matrix(1.035,0,0,1.035,364.642,78.169)" id="Text" class="hlr hlr-name-function" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">iterate_system_region</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_GoHIxyrGoY3BeMDjrEQnMHxfNpR63SoI">
+					<rect x="0" y="0" width="226" height="16" transform="matrix(1.035,0,0,1.035,364.642,65.75)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_9CSJorTkFnoUsuxH9rrroSS1XlJ5bztO)">
+				<text transform="matrix(1.035,0,0,1.035,232.174,96.797)" id="Text" class="hlr hlr-name-instruction" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">ORR</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_9CSJorTkFnoUsuxH9rrroSS1XlJ5bztO">
+					<rect x="0" y="0" width="26" height="16" transform="matrix(1.035,0,0,1.035,232.174,84.378)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_KwWCj2fUCGdgJgtOG9vpmX14Z04RALM1)">
+				<text transform="matrix(1.035,0,0,1.035,364.642,96.797)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">W8</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_KwWCj2fUCGdgJgtOG9vpmX14Z04RALM1">
+					<rect x="0" y="0" width="18" height="16" transform="matrix(1.035,0,0,1.035,364.642,84.378)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_8eGVCqqIE9hpV6VfQLyTcEFEIkSdm9FQ)">
+				<text transform="matrix(1.035,0,0,1.035,381.201,96.797)" id="Text" class="hlr hlr-punctuation" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">,</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_8eGVCqqIE9hpV6VfQLyTcEFEIkSdm9FQ">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.035,0,0,1.035,381.201,84.378)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_tz7C9iur0kizhNtwCtHueoi6YWYPUooP)">
+				<text transform="matrix(1.035,0,0,1.035,397.759,96.797)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">W0</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_tz7C9iur0kizhNtwCtHueoi6YWYPUooP">
+					<rect x="0" y="0" width="18" height="16" transform="matrix(1.035,0,0,1.035,397.759,84.378)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_iGLmCGFcZ6ozqWqzYRCx1jwHiaRjhApK)">
+				<text transform="matrix(1.035,0,0,1.035,414.318,96.797)" id="Text" class="hlr hlr-punctuation" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">,</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_iGLmCGFcZ6ozqWqzYRCx1jwHiaRjhApK">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.035,0,0,1.035,414.318,84.378)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_Gt3VF4gw4XNEe4Y64KKwyfX377onxaOp)">
+				<text transform="matrix(1.035,0,0,1.035,430.876,96.797)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">W20</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_Gt3VF4gw4XNEe4Y64KKwyfX377onxaOp">
+					<rect x="0" y="0" width="26" height="16" transform="matrix(1.035,0,0,1.035,430.876,84.378)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_FHBpkO6H6R7l5Gb7kjvVgTjDCfSMdADi)">
+				<text transform="matrix(1.035,0,0,1.035,232.174,115.426)" id="Text" class="hlr hlr-name-instruction" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">CBZ</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_FHBpkO6H6R7l5Gb7kjvVgTjDCfSMdADi">
+					<rect x="0" y="0" width="26" height="16" transform="matrix(1.035,0,0,1.035,232.174,103.007)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_z5Zqges4EDpWpJqlirRr8r7MH7QUUopT)">
+				<text transform="matrix(1.035,0,0,1.035,364.642,115.426)" id="Text" class="hlr hlr-name-register" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">W8</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_z5Zqges4EDpWpJqlirRr8r7MH7QUUopT">
+					<rect x="0" y="0" width="18" height="16" transform="matrix(1.035,0,0,1.035,364.642,103.007)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_U9cjEg9KeK8V5tqwUSOBwZC72thzHwjN)">
+				<text transform="matrix(1.035,0,0,1.035,381.201,115.426)" id="Text" class="hlr hlr-punctuation" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">,</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_U9cjEg9KeK8V5tqwUSOBwZC72thzHwjN">
+					<rect x="0" y="0" width="10" height="16" transform="matrix(1.035,0,0,1.035,381.201,103.007)"/>
+				</clipPath>
+			</defs>
+			<g clip-path="url(#_clipPath_7Zmfh2ocRJN6eoM6X8A6oENuvOAaqPwu)">
+				<text transform="matrix(1.035,0,0,1.035,397.759,115.426)" id="Text" class="hlr hlr-name-function" font-family="Fira Code" font-weight="400" font-size="13px" font-style="normal" font-variant-ligatures="none" stroke="none">loc_libs_ok</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_7Zmfh2ocRJN6eoM6X8A6oENuvOAaqPwu">
+					<rect x="0" y="0" width="90" height="16" transform="matrix(1.035,0,0,1.035,397.759,103.007)"/>
+				</clipPath>
+			</defs>
+		</g>
+	</g>
+	<g id="skip_path">
+		<path d=" M 414.783 143.913 L 414.783 156.087 L 780 156.087 L 780 509.13 L 426.957 509.13 L 426.957 521.304" id="Path" fill="none" vector-effect="non-scaling-stroke" stroke-width="2" stroke="rgb(0,150,136)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="3"/>
+		<path d=" M 422.007 520.342 L 426.957 530.242 L 431.906 520.342 Z " fill="rgb(0,150,136)" stroke="none"/>
+	</g>
+	<g id="detec_path">
+		<line x1="366.087" y1="143.913" x2="366.087" y2="168.261" id="Path" vector-effect="non-scaling-stroke" stroke-width="2" stroke="rgb(255,0,0)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="3"/>
+		<path d=" M 361.137 167.299 L 366.087 177.198 L 371.037 167.299 Z " fill="rgb(255,0,0)" stroke="none"/>
+		<line x1="366.087" y1="496.957" x2="366.087" y2="521.304" id="Path" vector-effect="non-scaling-stroke" stroke-width="2" stroke="rgb(255,0,0)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="3"/>
+		<path d=" M 361.137 520.342 L 366.087 530.242 L 371.037 520.342 Z " fill="rgb(255,0,0)" stroke="none"/>
+	</g>
+	<g id="libs">
+		<line x1="20" y1="22.174" x2="20" y2="570" id="Path" vector-effect="non-scaling-stroke" stroke-width="2" stroke="rgb(8,35,97)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="3"/>
+		<g id="E">
+			<g clip-path="url(#_clipPath_1OhYZLfzBxj3vSUlkicrOdTd0pKzUzQT)">
+				<text transform="matrix(1,0,0,1,30,523.692)" id="libAWDSupport" style="font-family:'Fira Code';font-weight:400;font-size:12px;font-style:normal;fill:#082361;stroke:none;">ios_module_security</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_1OhYZLfzBxj3vSUlkicrOdTd0pKzUzQT">
+					<rect x="0" y="0" width="180" height="20" transform="matrix(1,0,0,1,30,510)"/>
+				</clipPath>
+			</defs>
+			<circle vector-effect="non-scaling-stroke" cx="20" cy="520.4347826086951" r="6.521739130434952" id="Ellipse" fill="rgb(109,207,246)"/>
+		</g>
+		<g id="D">
+			<g clip-path="url(#_clipPath_iS6v1rXejIpicA65NVoHLvs7OdUjp0cN)">
+				<text transform="matrix(1,0,0,1,30,411.192)" id="libAWDSupport" style="font-family:'Fira Code';font-weight:400;font-size:12px;font-style:normal;fill:#082361;stroke:none;">CoreFoundation</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_iS6v1rXejIpicA65NVoHLvs7OdUjp0cN">
+					<rect x="0" y="0" width="180" height="20" transform="matrix(1,0,0,1,30,397.5)"/>
+				</clipPath>
+			</defs>
+			<circle vector-effect="non-scaling-stroke" cx="20" cy="407.9347826086951" r="6.521739130434952" id="Ellipse" fill="rgb(109,207,246)"/>
+		</g>
+		<g id="C">
+			<g clip-path="url(#_clipPath_Y9dHAtDr8jmWuewKf74dBtA0Gy2Toqym)">
+				<text transform="matrix(1,0,0,1,30,298.692)" id="libAWDSupport" style="font-family:'Fira Code';font-weight:400;font-size:12px;font-style:normal;fill:#082361;stroke:none;">NDIWrapper</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_Y9dHAtDr8jmWuewKf74dBtA0Gy2Toqym">
+					<rect x="0" y="0" width="180" height="20" transform="matrix(1,0,0,1,30,285)"/>
+				</clipPath>
+			</defs>
+			<circle vector-effect="non-scaling-stroke" cx="20" cy="295.4347826086951" r="6.521739130434952" id="Ellipse" fill="rgb(109,207,246)"/>
+		</g>
+		<g id="B">
+			<g clip-path="url(#_clipPath_CpP2xGTKW31KbnQSsIhusI6o4oXQWEZN)">
+				<text transform="matrix(1,0,0,1,30,186.192)" id="libAWDSupport" style="font-family:'Fira Code';font-weight:400;font-size:12px;font-style:normal;fill:#082361;stroke:none;">libswiftDispatch.dylib</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_CpP2xGTKW31KbnQSsIhusI6o4oXQWEZN">
+					<rect x="0" y="0" width="180" height="20" transform="matrix(1,0,0,1,30,172.5)"/>
+				</clipPath>
+			</defs>
+			<circle vector-effect="non-scaling-stroke" cx="20" cy="182.93478260869512" r="6.521739130434952" id="Ellipse" fill="rgb(109,207,246)"/>
+		</g>
+		<g id="A">
+			<g clip-path="url(#_clipPath_JJAtMXw5va6dajV5sMPNyjHNWAJsQOQu)">
+				<text transform="matrix(1,0,0,1,30,73.692)" id="libAWDSupport" style="font-family:'Fira Code';font-weight:400;font-size:12px;font-style:normal;fill:#082361;stroke:none;">libAWDSupport.dylib</text>
+			</g>
+			<defs>
+				<clipPath id="_clipPath_JJAtMXw5va6dajV5sMPNyjHNWAJsQOQu">
+					<rect x="0" y="0" width="180" height="20" transform="matrix(1,0,0,1,30,60)"/>
+				</clipPath>
+			</defs>
+			<circle vector-effect="non-scaling-stroke" cx="20" cy="70.43478260869514" r="6.521739130434952" id="Ellipse" fill="rgb(109,207,246)"/>
+		</g>
+	</g>
+</svg>
+

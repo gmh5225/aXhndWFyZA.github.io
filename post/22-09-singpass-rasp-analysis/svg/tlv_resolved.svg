@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 471 148" width="100%" height="100%">
+    <g font-family="Fira Code" font-size="11px" font-weight="400">
+
+<rect x="0" y="0" width="471" height="148" fill="#353333"
+      stroke-width="5" stroke="#6DCFF6" />
+
+    <text x="7" y="20" opacity="0.5" xml:space="preserve"><tspan fill="#88b0f0">bool</tspan><tspan>&#160;</tspan><tspan fill="#ffffff">in_range</tspan><tspan>&#160;</tspan><tspan fill="#C364FC">=</tspan><tspan>&#160;</tspan><tspan fill="#ffffff">address</tspan><tspan>&#160;</tspan><tspan fill="#C364FC">&lt;=</tspan><tspan>&#160;</tspan><tspan fill="#ffffff">tlv_addr</tspan><tspan>&#160;</tspan><tspan fill="#C364FC">&amp;&amp;</tspan><tspan>&#160;</tspan><tspan fill="#ffffff">tlv_addr</tspan><tspan>&#160;</tspan><tspan fill="#C364FC">&lt;</tspan><tspan>&#160;</tspan><tspan fill="#ffffff">address</tspan><tspan>&#160;</tspan><tspan fill="#C364FC">+</tspan><tspan>&#160;</tspan><tspan fill="#ffffff">size</tspan><tspan fill="#ffffff">;</tspan><tspan fill="#ffffff"></tspan></text>
+<text x="7" y="36"  xml:space="preserve"><tspan fill="#88b0f0">bool</tspan><tspan>&#160;</tspan><tspan fill="#ffffff">cond</tspan><tspan fill="#ffffff">&#160;&#160;&#160;&#160;&#160;</tspan><tspan fill="#C364FC">=</tspan><tspan>&#160;</tspan><tspan fill="#ffffff">_GumExecCtx</tspan><tspan fill="#C364FC">-&gt;</tspan><tspan fill="#6DCFF6">thread_id</tspan><tspan fill="#ffffff">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan fill="#C364FC">==</tspan><tspan>&#160;</tspan><tspan fill="#ffffff">tid</tspan><tspan>&#160;</tspan><tspan fill="#C364FC">&amp;&amp;</tspan><tspan fill="#ffffff"></tspan></text>
+<text x="7" y="52"  xml:space="preserve"><tspan fill="#ffffff">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan fill="#ffffff">_GumExecCtx</tspan><tspan fill="#C364FC">-&gt;</tspan><tspan fill="#6DCFF6">code_writer</tspan><tspan fill="#ffffff">.</tspan><tspan fill="#6DCFF6">target_os</tspan><tspan fill="#ffffff">&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan fill="#C364FC">&lt;=</tspan><tspan>&#160;</tspan><tspan fill="#6DCFF6">5</tspan><tspan fill="#ffffff">&#160;&#160;&#160;</tspan><tspan fill="#C364FC">&amp;&amp;</tspan><tspan fill="#ffffff"></tspan></text>
+<text x="7" y="68"  xml:space="preserve"><tspan fill="#ffffff">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan fill="#ffffff">_GumExecCtx</tspan><tspan fill="#C364FC">-&gt;</tspan><tspan fill="#6DCFF6">code_writer</tspan><tspan fill="#ffffff">.</tspan><tspan fill="#6DCFF6">ptrauth_support</tspan><tspan>&#160;</tspan><tspan fill="#C364FC">&lt;</tspan><tspan fill="#ffffff">&#160;&#160;</tspan><tspan fill="#6DCFF6">3</tspan><tspan fill="#ffffff">;</tspan><tspan fill="#ffffff"></tspan></text>
+<text x="7" y="84" opacity="0.5" xml:space="preserve"><tspan fill="#ffffff"></tspan></text>
+<text x="7" y="100" opacity="0.5" xml:space="preserve"><tspan fill="#88b0f0">if</tspan><tspan>&#160;</tspan><tspan fill="#ffffff">(</tspan><tspan fill="#ffffff">in_range</tspan><tspan>&#160;</tspan><tspan fill="#C364FC">&amp;&amp;</tspan><tspan>&#160;</tspan><tspan fill="#ffffff">cond</tspan><tspan fill="#ffffff">)</tspan><tspan>&#160;</tspan><tspan fill="#ffffff">{</tspan><tspan fill="#ffffff"></tspan></text>
+<text x="7" y="116" opacity="0.5" xml:space="preserve"><tspan fill="#ffffff">&#160;&#160;</tspan><tspan fill="#C364FC">-&gt;</tspan><tspan>&#160;</tspan><tspan fill="#ffffff">Trigger</tspan><tspan>&#160;</tspan><tspan fill="#ffffff">EVT_CODE_TRACING</tspan><tspan fill="#ffffff"></tspan></text>
+<text x="7" y="132" opacity="0.5" xml:space="preserve"><tspan fill="#ffffff">}</tspan><tspan fill="#ffffff"></tspan></text>
+<text x="7" y="148"  xml:space="preserve"></text>
+
+    </g>
+</svg>
+        

@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 445 692" width="445pt" height="692pt">
+    <g font-family="Fira Code" font-size="11px" font-weight="450">
+
+<rect x="0" y="0" width="445" height="692" fill="#353333" rx="4" ry="4" stroke-width="4" stroke="#6DCFF6" />
+
+    <text x="7" y="20" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B97FA&#160;</tspan><tspan class="hlr hlr-name-variable">qword_1010B97FA</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-keyword-type">DCQ</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-hex">0x942752767D91608E</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="36" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B97FA</tspan></text>
+<text x="7" y="52" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9802&#160;</tspan><tspan class="hlr hlr-name-variable">byte_1010B9802</tspan><tspan>&#160;&#160;</tspan><tspan class="hlr hlr-keyword-type">DCB</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-hex">0x98</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="68" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9802</tspan></text>
+<text x="7" y="84" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9803&#160;</tspan><tspan class="hlr hlr-name-variable">dword_1010B9803</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-keyword-type">DCD</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-hex">0x2318E9A2</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="100" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9803</tspan></text>
+<text x="7" y="116" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9807&#160;</tspan><tspan>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="hlr hlr-keyword-type">DCQ</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-hex">0x222AD8A21325DEE5</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="132" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B980F&#160;</tspan><tspan class="hlr hlr-name-variable">byte_1010B980F</tspan><tspan>&#160;&#160;</tspan><tspan class="hlr hlr-keyword-type">DCB</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-hex">0xE0</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="148" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B980F</tspan></text>
+<text x="7" y="164" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9810&#160;</tspan><tspan class="hlr hlr-name-variable">byte_1010B9810</tspan><tspan>&#160;&#160;</tspan><tspan class="hlr hlr-keyword-type">DCB</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-hex">0xE5</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="180" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9810</tspan></text>
+<text x="7" y="196" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9811&#160;</tspan><tspan class="hlr hlr-name-variable">byte_1010B9811</tspan><tspan>&#160;&#160;</tspan><tspan class="hlr hlr-keyword-type">DCB</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-hex">0xB7</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="212" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9811</tspan></text>
+<text x="7" y="228" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9812&#160;</tspan><tspan class="hlr hlr-name-variable">dword_1010B9812</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-keyword-type">DCD</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-hex">0x8491650B</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="244" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9812</tspan></text>
+<text x="7" y="260" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9816&#160;</tspan><tspan>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="hlr hlr-keyword-type">DCQ</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-hex">0xB7D0892EFAB11BBF</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="276" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B981E&#160;</tspan><tspan>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="hlr hlr-keyword-type">DCQ</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-hex">0x4B9FF985643894C5</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="292" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9826&#160;</tspan><tspan>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="hlr hlr-keyword-type">DCQ</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-hex">0x38D0ABE65C497CF0</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="308" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9826</tspan></text>
+<text x="7" y="324" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B982E&#160;</tspan><tspan>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="hlr hlr-keyword-type">DCQ</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-hex">0xD769CDDBCB49C500</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="340" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9836&#160;</tspan><tspan>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="hlr hlr-keyword-type">DCQ</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-hex">0xF1C4BCB1A563CD53</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="356" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B983E&#160;</tspan><tspan>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="hlr hlr-keyword-type">DCD</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-hex">0x52BB5CBC</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="372" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9842&#160;</tspan><tspan class="hlr hlr-name-variable">byte_1010B9842</tspan><tspan>&#160;&#160;</tspan><tspan class="hlr hlr-keyword-type">DCB</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-hex">0x42</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="388" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9842</tspan></text>
+<text x="7" y="404" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9843&#160;</tspan><tspan class="hlr hlr-name-variable">dword_1010B9843</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-keyword-type">DCD</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-hex">0x2451DD96</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="420" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9843</tspan></text>
+<text x="7" y="436" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9847&#160;</tspan><tspan>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="hlr hlr-keyword-type">DCQ</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-hex">0x6248099506559926</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="452" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B984F&#160;</tspan><tspan>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="hlr hlr-keyword-type">DCD</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-hex">0xFAF2AF09</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="468" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9853&#160;</tspan><tspan class="hlr hlr-name-variable">dword_1010B9853</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-keyword-type">DCD</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-hex">0xD8B63318</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="484" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9853</tspan></text>
+<text x="7" y="500" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9857&#160;</tspan><tspan>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="hlr hlr-keyword-type">DCQ</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-hex">0xD1CA2820CCC72C5F</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="516" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B985F&#160;</tspan><tspan>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="hlr hlr-keyword-type">DCQ</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-hex">0xE7CE3B62D1C62F5E</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="532" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9867&#160;</tspan><tspan>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="hlr hlr-keyword-type">DCD</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-hex">0x77CE475E</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="548" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B986B&#160;</tspan><tspan class="hlr hlr-name-variable">dword_1010B986B</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-keyword-type">DCD</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-hex">0x7AB7291C</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="564" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B986B</tspan></text>
+<text x="7" y="580" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B986F&#160;</tspan><tspan>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="hlr hlr-keyword-type">DCQ</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-hex">0x75C9251C6AC41E5F</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="596" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9877&#160;</tspan><tspan>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="hlr hlr-keyword-type">DCQ</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-hex">0x71CF165D64C42C4E</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="612" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B987F&#160;</tspan><tspan>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="hlr hlr-keyword-type">DCQ</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-hex">0x6EC22E5133BA165C</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="628" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9887&#160;</tspan><tspan class="hlr hlr-name-variable">word_1010B9887</tspan><tspan>&#160;&#160;</tspan><tspan class="hlr hlr-keyword-type">DCW</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-hex">0xB54F</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="644" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9887</tspan></text>
+<text x="7" y="660" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9889&#160;</tspan><tspan class="hlr hlr-name-variable">dword_1010B9889</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-keyword-type">DCD</tspan><tspan>&#160;</tspan><tspan class="hlr hlr-literal-number-hex">0xDEDB09A0</tspan><tspan class="hlr hlr-text"></tspan></text>
+<text x="7" y="676" xml:space="preserve">
+<tspan class="hlr hlr-name-section">__data:</tspan><tspan class="hlr hlr-literal-number-address">00000001010B9889</tspan></text>
+<text x="7" y="692" xml:space="preserve">
+</text>
+
+    </g>
+</svg>
+        
